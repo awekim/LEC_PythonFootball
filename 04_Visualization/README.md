@@ -20,7 +20,7 @@
 <br>```!streamlit run app.py &> logs.txt & npx localtunnel --port 8501```
 
 5. 결과창에 나와있는 link를 클릭하세요.
-![image](https://github.com/awekim/LEC_PythonFootball/assets/56111110/d66acb5b-402c-4c39-8b38-4f4a03e5eac1)
+<br>![image](https://github.com/awekim/LEC_PythonFootball/assets/56111110/d66acb5b-402c-4c39-8b38-4f4a03e5eac1)
 
 6. Tunnel Password에 IP를 입력하고 "Click to Submit"을 클릭하세요.
-![image](https://github.com/awekim/LEC_PythonFootball/assets/56111110/766d80b2-6f30-41a5-9933-c3ea443e66c6)
+<br>![image](https://github.com/awekim/LEC_PythonFootball/assets/56111110/766d80b2-6f30-41a5-9933-c3ea443e66c6)
