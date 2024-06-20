@@ -1,6 +1,7 @@
 ## Streamlit 사용법
 
-출처: https://discuss.streamlit.io/t/streamlit-cheat-sheet/4912
+- Streamlit Cheatsheet(streamlit-cheat-sheet.png)을 참고하세요
+  - 출처: https://discuss.streamlit.io/t/streamlit-cheat-sheet/4912
 
 (로컬 버전)
 * Streamlit을 수행하는 경로에 특수 문자를 포함되지 않도록 하세요.
